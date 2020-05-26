@@ -2,3 +2,4 @@
 
 Solves the 8 tile puzzle problem with an A* search algorithm
 
+![](demo.gif)
